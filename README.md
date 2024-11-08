@@ -73,7 +73,19 @@ The proposed system, ***"Intelligent News Extraction: A Sentence Transformer-Bas
 
 The **flow of the project** begins with users entering the URLs of news articles into the Streamlit interface. Upon clicking the **"Process URLs"** button, the system retrieves the content and processes it to generate **sentence embeddings.** These embeddings are stored along with the original sentences and their corresponding URLs in a Pickle file. Users can then **input specific queries** to retrieve the most relevant information, with the system calculating **cosine similarity scores** to determine the **closest matches.** This streamlined process ensures that users can access vital information swiftly, enabling them to make informed decisions based on up-to-date market insights.
 ## *Output*
+### Interface : 
+![op](./Picture3.jpg)
 
+### Processing 2 URLs : 
+![op](./Picture4.jpg)
+![OP](./Picture5.jpg)
+![op](./Picture6.jpg)
+
+### Processing 3 URLs :
+
+![op](./Picture7.jpg)
+![op](./Picture8.jpg)
+![op](./Picture9.jpg)
 
 ## *Project Implementation*
 
